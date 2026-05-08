@@ -1,6 +1,0 @@
-export { SpotlightSearch } from './SpotlightSearch'
-export { AgentGrid } from './AgentGrid'
-export { BackgroundCustomizer } from './BackgroundCustomizer'
-export type { BackgroundStyle } from './BackgroundCustomizer'
-export { LayoutCustomizer } from './LayoutCustomizer'
-export type { GridSize } from './LayoutCustomizer'
